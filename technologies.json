@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "React",
+        "category": "Frontend",
+        "description": "A JavaScript library for building user interfaces.",
+        "experience": "Advanced",
+        "status": "Learning",
+        "image": "https://img.icons8.com/color/144/react-native.png"
+    },
+
+   {
+        "id": 2,
+        "name": "Tailwind CSS",
+        "category": "CSS Framework",
+        "description": "A utility-first CSS framework for rapid UI developement.",
+        "experience": "Intermediate",
+        "status": "Mastered",
+        "image": "https://img.icons8.com/color/144/tailwindcss.png"
+    },
+
+    {
+        "id": 3,
+        "name": "JavaScript (ES6+)",
+        "category": "Language",
+        "description": "The programming language of the web.",
+        "experience": "Expert",
+        "status": "Mastered",
+        "image": "https://img.icons8.com/color/144/javascript.png"
+    },
+
+    {
+        "id": 4,
+        "name": "Node.js",
+        "category": "Backend",
+        "description": "JavaScript runtime built on Chrome's V8 engine.",
+        "experience": "Beginner",
+        "status": "Planned",
+        "image": "https://img.icons8.com/color/144/node.js.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Vite",
+        "category": "Build Tool",
+        "description": "Next Generation Frontend Tooling.",
+        "experience": "Intermediate",
+        "status": "Mastered",
+        "image": "https://img.icons8.com/color/144/vite.png"
+    },
+
+    {
+        "id": 6,
+        "name": "Git & GitHub",
+        "category": "Version Control",
+        "description": "Distributed version control system for tracking changes.",
+        "experience": "Intermediate",
+        "status": "Mastered",
+        "image": "https://img.icons8.com/color/144/git.png"
+    }
+]
